@@ -1,0 +1,9 @@
+body {
+    background-image: url(fortnite.gif);
+}
+#meme {
+    width: 50px;
+    height: 100px;
+    font-size: 50px;
+    margin: 0 auto;
+}
